@@ -1,0 +1,15 @@
+.cont {
+  .top {
+    color: #FF9302;
+    .bd_logo1 {
+      display: inline-block;
+      width: 540px;
+      height: 258px;
+      background-image: url("../img/bd_logo1.png");
+      background-size: contain;
+    }
+  }
+  .bottom {
+    color: #F00000;
+  }
+}
